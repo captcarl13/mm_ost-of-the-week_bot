@@ -1,0 +1,11 @@
+{
+  "name": "OST_BOT",
+  "version": "1.0.0",
+  "description": "Metroid Metal OST of the Week bot",
+  "main": "bot.js",
+  "author": "capt_carl",
+  "dependencies": {
+    "discord.io": "^2.5.3",
+    "winston": "^2.4.0"
+  }
+}
